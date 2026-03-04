@@ -1,0 +1,12 @@
+[
+    ["名", "partOfSpeech", 0, "名詞", 0],
+    ["人", "partOfSpeech", 0, "人名", 0],
+    ["地", "partOfSpeech", 0, "地名", 0],
+    ["組", "partOfSpeech", 0, "組織名", 0],
+    ["感", "partOfSpeech", 0, "感嘆詞", 0],
+    ["家", "partOfSpeech", 0, "家名", 0],
+    ["小", "partOfSpeech", 0, "小名", 0],
+    ["言", "partOfSpeech", 0, "言語名", 0],
+    ["サ", "partOfSpeech", 0, "サイト名", 0],
+    ["文", "partOfSpeech", 0, "文字体系名", 0]
+]
